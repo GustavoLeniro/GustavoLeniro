@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="./gustavo-pixel-art.png" height="180" alt="Gustavo em pixel art" />
 </div>
@@ -48,10 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </div>
 
@@ -61,7 +56,6 @@
   • Lógica de programação<br>
   • Desenvolvimento Web<br>
   • Python<br>
-  • Banco de Dados e MySQL<br>
-  • Git e GitHub<br>
+  • Banco de Dados e SQL<br>
   • Desenvolvimento de Software
 </p>
