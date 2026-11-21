@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/diagram-3.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/bootstrap-icons@1.11.3/icons/diagram-3.svg" height="40" />
   <img width="12" />
 </div>
 
